@@ -1,0 +1,2 @@
+This file contains important information that the customer may want to know.
+Of course, there's always a chance that this file is a virus too (just kidding).
